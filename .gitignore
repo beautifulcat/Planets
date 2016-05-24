@@ -1,2 +1,2 @@
-*.dat 
-results/
+log_*
+!log_01
